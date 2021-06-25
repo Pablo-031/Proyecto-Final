@@ -1,0 +1,21 @@
+.color1{
+    background: #414141;
+	color:#fff;
+}
+.color2{
+    background: rgb(54, 49, 49);
+	color:rgb(54, 40, 49);
+}
+.color3{
+    background: #ff3a3a;
+	color:rgb(0, 0, 0);
+}
+footer {
+	background:#8b1d1d;
+	color:#fff;
+}
+.parrafo{
+	color: #707070;
+	text-align: justify;
+	font-size: small;
+}
